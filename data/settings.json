@@ -1,0 +1,13 @@
+{
+  "AutoExecute": true,
+  "MultiInstance": true,
+  "SaveTabs": false,
+  "TopMost": true,
+  "EditorRefreshRate": 240,
+  "EditorTextSize": 14.0,
+  "ShowMinimap": false,
+  "ShowInlayHints": false,
+  "AIUsername": "Will Smith",
+  "UseConversationHistory": false,
+  "AppendCurrentScript": false
+}
