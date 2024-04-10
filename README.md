@@ -1,2 +1,3 @@
 Download all files.
-and run!
+and run wave.exe as admin!
+/Support \ / All Games!
